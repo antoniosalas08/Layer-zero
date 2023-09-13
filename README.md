@@ -1,4 +1,4 @@
-# Layer-zero...
+# Layer-zero..
 
 ## que es layer zero?
 1. [General Info](#general-info)
